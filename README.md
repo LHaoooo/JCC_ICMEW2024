@@ -29,7 +29,6 @@ The dataset structure is as follows:
 * `Twitter/twitter2017_images`: The image portion of the Twitter 2017 dataset.
 
 After downloading `resnet152.pth`, please place it under the `resnet/` directory.
-```
 
 ## 4. Usage
 ### Training
