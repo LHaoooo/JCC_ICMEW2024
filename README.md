@@ -19,8 +19,6 @@ conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit
 
 ## 3. Dataset and Checkpoints
 
-### Dataset
-
 Our dataset has been uploaded to Google Drive: [https://drive.google.com/drive/folders/1TJVFZltNUOVyIYzhujSO3ajixtkwVT8i?usp=drive_link](https://drive.google.com/drive/folders/1TJVFZltNUOVyIYzhujSO3ajixtkwVT8i?usp=drive_link)
 
 The dataset structure is as follows:
@@ -29,8 +27,6 @@ The dataset structure is as follows:
 * `Twitter/twitter17_pre`: The text portion of the Twitter 2017 dataset.
 * `Twitter/twitter2015_images`: The image portion of the Twitter 2015 dataset.
 * `Twitter/twitter2017_images`: The image portion of the Twitter 2017 dataset.
-
-### Checkpoints
 
 After downloading `resnet152.pth`, please place it under the `resnet/` directory.
 ```
