@@ -1,4 +1,5 @@
-# JCC_ICME2024_MML4SG
+# JCC
+# ICME2024_MML4SG
 # Joint Modal Circular Complementary Attention for Multimodal Aspect-Based Sentiment Analysis
 
 This is the official PyTorch implementation for the paper: **"Joint Modal Circular Complementary Attention for Multimodal Aspect-Based Sentiment Analysis"**.
